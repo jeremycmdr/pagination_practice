@@ -1,0 +1,17 @@
+.fetch_container {
+  display: block;
+  margin: 60px;
+}
+
+.gender_selection button {
+  margin: 5px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  background-color: #f0f0f0;
+  cursor: pointer;
+}
+
+.gender_selection button.selected {
+  background-color: #4caf50;
+  color: white;
+}
